@@ -2,4 +2,5 @@
 - `npm install gulp -g`
 - `npm install gulp-cli -g`
 - Run project: `npm start`
-- Build project: `npm build`
+- Build project: `npm run build`
+- Source code production in folder dist

@@ -8,7 +8,7 @@
     "build": "gulp build",
     "start": "gulp build watch"
   },
-  "author": "vietnt94v via evondev",
+  "author": "vietnt94v",
   "license": "ISC",
   "babel": {
     "presets": [

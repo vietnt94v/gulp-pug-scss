@@ -4,7 +4,9 @@
 @import 'helpers/reset';
 
 // vendors
-@import 'vendors/fontawesome';
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+@import 'vendors/fontawesome/fontawesome';
+// @import 'node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss';
 
 // components
 @import 'components/button';

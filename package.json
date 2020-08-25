@@ -37,8 +37,11 @@
     "run-sequence": "^2.2.1"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
     "array-union": "^2.1.0",
+    "bootstrap": "^4.5.2",
     "del": "^3.0.0",
+    "slick-carousel": "^1.8.1",
     "static-server": "^3.0.0"
   }
 }
